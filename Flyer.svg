@@ -960,15 +960,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="-598.43792"
-     inkscape:cy="415.58225"
+     inkscape:cx="227.48899"
+     inkscape:cy="479.58933"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="713"
-     inkscape:window-height="433"
-     inkscape:window-x="1473"
-     inkscape:window-y="584"
+     inkscape:window-width="1918"
+     inkscape:window-height="2054"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -985,7 +985,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid6093"
@@ -996,6 +996,11 @@
        position="39.217331,239.50049"
        orientation="0,1"
        id="guide1514"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.028476,94.292659"
+       orientation="1,0"
+       id="guide1739"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -1016,7 +1021,7 @@
      id="layer1">
     <g
        id="g1675"
-       transform="matrix(0.28161942,0,0,0.28161942,37.62317,193.13406)">
+       transform="matrix(0.28161942,0,0,0.28161942,37.094003,193.13406)">
       <g
          id="g1669">
         <path
@@ -1388,24 +1393,20 @@
            x="78.791901"
            y="182.57275" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara1104">Du benötigst Einkäufe, musst ein Rezept abholen oder Hundi Gassi führen, willst aber nicht aus dem Haus? Das ist sehr vernünftig. Wir erledigen das für dich.</flowPara></flowRoot>    <g
-       id="g1116"
-       transform="matrix(0.7642256,0,0,0.7642256,14.653727,65.945245)">
-      <rect
-         ry="1.3661644"
-         y="263.90427"
-         x="37.342926"
-         height="13.473178"
-         width="20.197962"
-         id="rect1106"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30851412;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         rx="1.3661644" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1112"
-         d="m 56.431719,264.55369 -9.089415,7.6067 -9.159701,-7.4877"
-         style="fill:none;stroke:#000000;stroke-width:1.30851412;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+         id="flowPara1104">Du benötigst Einkäufe, musst ein Rezept abholen oder Hundi Gassi führen, willst aber nicht aus dem Haus? Das ist sehr vernünftig. Wir helfen dir gerne.</flowPara></flowRoot>    <rect
+       rx="1.0440578"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1106"
+       width="15.4358"
+       height="10.296548"
+       x="42.388355"
+       y="268.09003"
+       ry="1.0440578" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8708657;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.505566,269.15771 -6.47709,4.72822 -6.527177,-4.65426"
+       id="path1112"
+       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot1544-4"
@@ -1448,7 +1449,7 @@
        xml:space="preserve"
        id="flowRoot1677-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,61.027413,90.017196)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,61.027413,91.07553)"><flowRegion
          id="flowRegion1679-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect1681-3"
@@ -1459,43 +1460,26 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara1683-6"
          style="font-size:32px">corona-hilfe-darmstadt.de</flowPara></flowRoot>    <g
-       id="g1116-8"
-       transform="matrix(0.7642256,0,0,0.7642256,13.598742,-1.6977827)">
-      <rect
-         ry="1.3661644"
-         y="263.90427"
-         x="37.342926"
-         height="13.473178"
-         width="20.197962"
-         id="rect1106-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30851412;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         rx="1.3661644" />
-    </g>
-    <g
-       id="g1116-8-1"
-       transform="matrix(0.7642256,0,0,0.7642256,13.598742,9.5987643)">
-      <rect
-         ry="1.3661644"
-         y="263.90427"
-         x="37.342926"
-         height="5.6834269"
-         width="20.19796"
-         id="rect1106-4-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30851412;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         rx="1.3661644" />
-    </g>
-    <g
-       id="g1116-8-9"
-       transform="matrix(0.7642256,0,0,0.7642256,13.598743,-1.6977816)">
-      <rect
-         rx="1.3661644"
-         ry="1.3661499"
-         y="265.52179"
-         x="39.178989"
-         height="10.281891"
-         width="16.525839"
-         id="rect1106-4-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.65425706;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       transform="matrix(0.16840651,0,0,0.16840651,38.621741,169.46653)"
+       id="g850">
+      <path
+         sodipodi:nodetypes="zzzzzzzzz"
+         inkscape:connector-curvature="0"
+         id="path821"
+         d="m 27.516667,261.01665 c 4.233335,0 76.200003,0 80.433333,0 4.23333,0 6.35,-2.11667 6.35,-6.35 0,-4.23333 0,-48.68334 0,-55.03334 0,-6.35 -2.11666,-6.35 -6.35,-6.35 -4.23334,0 -74.083332,0 -80.433332,0 -6.35,0 -6.35,2.11667 -6.35,6.35 0,4.23333 0,50.8 0,55.03334 0,4.23334 2.116664,6.35 6.349999,6.35 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zsczzzzcszz"
+         inkscape:connector-curvature="0"
+         id="path817"
+         d="m 55.033334,265.24998 c -2.116667,0 -2.116667,-2.11667 -2.116667,-2.11667 H 8.4666668 v 2.11667 c 0,4.23333 4.2333342,8.46666 8.4666672,8.46666 H 118.53334 c 4.23334,0 8.46666,-4.23332 8.46666,-8.46666 v -2.11667 H 82.550002 c -1e-6,0 -1e-6,2.11667 -2.116667,2.11667 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zzzzzzzzz"
+         inkscape:connector-curvature="0"
+         id="path819"
+         d="m 29.633334,256.78331 c -2.116667,0 -4.233333,-2.11666 -4.233333,-4.23333 0,-2.11667 0,-48.68333 0,-50.8 0,-2.11667 2.116668,-4.23333 4.233334,-4.23333 h 76.199995 c 2.11667,0 4.23334,2.11666 4.23334,4.23333 0,2.11667 0,48.68333 0,50.8 0,2.11667 -2.11667,4.23333 -4.23334,4.23333 -2.11667,0 -74.083329,0 -76.199996,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

@@ -960,8 +960,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="273.96806"
-     inkscape:cy="330.36155"
+     inkscape:cx="73.31123"
+     inkscape:cy="580.30921"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -969,7 +969,7 @@
      inkscape:window-height="1896"
      inkscape:window-x="-10"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
@@ -1365,7 +1365,7 @@
        xml:space="preserve"
        id="flowRoot1544"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,41.375769,39.646132)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,41.375769,44.408635)"><flowRegion
          id="flowRegion1546"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect1548"
@@ -1403,7 +1403,7 @@
        xml:space="preserve"
        id="flowRoot1544-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,41.382119,4.5433247)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,41.382119,6.1308248)"><flowRegion
          id="flowRegion1546-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect1548-5"
@@ -1435,7 +1435,7 @@
        xml:space="preserve"
        id="flowRoot1544-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,81.569278,32.122893)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,81.569278,34.768728)"><flowRegion
          id="flowRegion1546-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect1548-0"
@@ -1449,7 +1449,7 @@
        xml:space="preserve"
        id="flowRoot1544-4-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,78.950536,-4.4210886)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,78.950536,-3.3627552)"><flowRegion
          id="flowRegion1546-7-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect1548-0-4"
@@ -1555,7 +1555,7 @@
            y="423.99921"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara1507">06151/2752-303 (ab 19.03)</flowPara></flowRoot>    <path
+         id="flowPara1507">06151/2752-303 (ab 19.03, SV98)</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        style="fill:#080000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10533521;stroke-opacity:1"
        d="m 48.415458,140.80191 c -0.374861,0.16878 -0.382456,0.34634 -0.389041,0.50668 -0.0057,0.13131 -0.0053,0.28153 -0.0053,0.43157 0,0.15021 0.05638,0.39411 0.281694,0.60036 0.225324,0.20641 0.769979,0.78819 1.877856,0.78819 1.107877,0 2.178282,-0.80694 2.328666,-0.91934 0.150218,-0.11257 2.496268,-1.55768 3.398738,-3.84652 0.750063,-1.90198 0.600861,-2.289 0.563391,-2.70201 -0.03747,-0.41283 -0.544654,-1.33218 -1.070405,-1.5197 -0.525754,-0.18769 -0.976231,-0.18769 -1.070408,-0.13147 -0.09401,0.0563 -0.150217,0.20641 -0.262793,0.43174 -0.112578,0.22515 -0.657402,1.33217 -0.732508,1.5386 -0.07511,0.20642 -0.112577,0.35647 0.112747,0.50668 0.22532,0.15005 0.732337,0.58128 0.882554,0.71277 0.150384,0.13131 0.169118,0.26261 0.05654,0.48793 -0.112913,0.22515 -0.35039,0.95041 -1.117498,1.81069 -0.596808,0.66938 -1.333873,1.1212 -1.559196,1.25269 -0.22532,0.1313 -0.347181,0.014 -0.45942,-0.0989 -0.100931,-0.1011 -0.26296,-0.22515 -0.394441,-0.33789 -0.13148,-0.11225 -0.225323,-0.14988 -0.375369,-0.22482 -0.150384,-0.0751 -0.281864,-0.0376 -0.39444,0.0187 -0.112577,0.0563 -1.226192,0.49385 -1.671434,0.69403"
@@ -1574,80 +1574,11 @@
            y="423.99921"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara1683-6-1-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">soli-DA-risch.de (ab 19.03)</flowPara></flowRoot>    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">soli-DA-risch.de (ab 19.03, SV98)</flowPara></flowRoot>    <image
        y="149.45525"
        x="155.77188"
        id="image1251"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAA
-CXBIWXMAAABgAAAAYADwa0LPAAAOUklEQVR42u3dbW7jyhWE4XYWQRqzLNmrMLQcYxYx/ljWiPIm
-lB9BgItEJo9GZ05XNd8H4K8AYrNJVzxy3cOHy+VyaQBg4F+9FwAAUQQWABsEFgAbBBYAGwQWABsE
-FgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQW
-ABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYA
-GwQWABsEFgAbkoE1z3N7eHjY5VHp7e3t272e57l9fHz0fhS64jnU83C5XC69F/G/5nluX19fvZfR
-ReXt2NrnaZra+XzuvSXd8BzqkfwNCzW2fhj3+sMKXQQWABsEFgAbBBYAGwQWABsE1k6dTqfeSwBu
-RmDt0Ol0asfjsfcygJvZBtayLO1yuVgd0zSlXPta4TNy/Pjxo31+fpber3vXfEuRtbIQu+fnsAfb
-4uiyLG2e595LTb+uyO2oLDRmPR4Za44WWbMKsTyHemx/w9ozx0Jnxpqjn0EhdlwEFgAbBBYAGwQW
-ABsEFgAbBBa+9fj4mPZZWX9K3/rrHoXYsRFYuOrx8bG9vr6mfd7Pnz9TQuvl5eXb0KIQuwMXQdM0
-XVprq8eyLJufs/UZmUfWdUVE1vP8/BzaIwXLslwOh4Pl/drzc9gDv2EN6vX11abQOM9z+/nzZ+9l
-wACBNSiXsHJdL/ogsADYILAA2CCwANggsADYILAMbfWZMgufStcFEFiG1kqY2YVPlesCWiOwLD09
-PbXz+Xx1muTpdGpPT0+lUzezzrV2XcuytMPh0Hvr0dnQE0cfHh7K1hzZxspJj5Wvoa861/l8Tvvn
-btb94jmsxW9Yg6qcull1LsqlILAA2CCwANggsADYILAA2CCwBhSdupn1V8LKc2X0tFyLtSCwhnPL
-1M216Z3Zss51b7nUuViLpjlakEmP6379+hX6rHuOaZou7+/vofVU7O8t6+E5rHkOe+A3LEPH4/Gv
-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
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAABGdBTUEAALGPC/xhBQAAACBjSFJN AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAA CXBIWXMAAABgAAAAYADwa0LPAAAOUklEQVR42u3dbW7jyhWE4XYWQRqzLNmrMLQcYxYx/ljWiPIm lB9BgItEJo9GZ05XNd8H4K8AYrNJVzxy3cOHy+VyaQBg4F+9FwAAUQQWABsEFgAbBBYAGwQWABsE FgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQW ABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYAGwQWABsEFgAbBBYA GwQWABsEFgAbkoE1z3N7eHjY5VHp7e3t272e57l9fHz0fhS64jnU83C5XC69F/G/5nluX19fvZfR ReXt2NrnaZra+XzuvSXd8BzqkfwNCzW2fhj3+sMKXQQWABsEFgAbBBYAGwQWABsE1k6dTqfeSwBu RmDt0Ol0asfjsfcygJvZBtayLO1yuVgd0zSlXPta4TNy/Pjxo31+fpber3vXfEuRtbIQu+fnsAfb 4uiyLG2e595LTb+uyO2oLDRmPR4Za44WWbMKsTyHemx/w9ozx0Jnxpqjn0EhdlwEFgAbBBYAGwQW ABsEFgAbBBa+9fj4mPZZWX9K3/rrHoXYsRFYuOrx8bG9vr6mfd7Pnz9TQuvl5eXb0KIQuwMXQdM0 XVprq8eyLJufs/UZmUfWdUVE1vP8/BzaIwXLslwOh4Pl/drzc9gDv2EN6vX11abQOM9z+/nzZ+9l wACBNSiXsHJdL/ogsADYILAA2CCwANggsADYILAMbfWZMgufStcFEFiG1kqY2YVPlesCWiOwLD09 PbXz+Xx1muTpdGpPT0+lUzezzrV2XcuytMPh0Hvr0dnQE0cfHh7K1hzZxspJj5Wvoa861/l8Tvvn btb94jmsxW9Yg6qcull1LsqlILAA2CCwANggsADYILAA2CCwBhSdupn1V8LKc2X0tFyLtSCwhnPL 1M216Z3Zss51b7nUuViLpjlakEmP6379+hX6rHuOaZou7+/vofVU7O8t6+E5rHkOe+A3LEPH4/Gv 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 "
        preserveAspectRatio="none"
        height="11.94881"
        width="11.94881" />
@@ -1661,7 +1592,7 @@ ZnkAMjAyMC0wMy0xN1QyMDozNjozMiswMDowMMhKr/AAAAAASUVORK5CYII=
            height="31.428616"
            x="66.753578"
            y="479.05252" /></flowRegion><flowPara
-         id="flowPara1260"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1260" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1544-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1687,7 +1618,7 @@ ZnkAMjAyMC0wMy0xN1QyMDozNjozMiswMDowMMhKr/AAAAAASUVORK5CYII=
            height="17.906397"
            x="-770.7464"
            y="561.88501" /></flowRegion><flowPara
-         id="flowPara1304"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1304" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1310"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1697,7 +1628,7 @@ ZnkAMjAyMC0wMy0xN1QyMDozNjozMiswMDowMMhKr/AAAAAASUVORK5CYII=
            height="17.172594"
            x="-751.55347"
            y="670.98151" /></flowRegion><flowPara
-         id="flowPara1316"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1316" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1544-4-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1745,5 +1676,27 @@ ZnkAMjAyMC0wMy0xN1QyMDozNjozMiswMDowMMhKr/AAAAAASUVORK5CYII=
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="flowSpan1306-5">Helft lokal</flowSpan>, und <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="flowSpan1366-4">helft wenigen Menschen kontinuierlich</flowSpan>. So vermeidet ihr potentielle Infektionsketten.</flowPara></flowRoot>  </g>
+   id="flowSpan1366-4">helft wenigen Menschen kontinuierlich</flowSpan>. So vermeidet ihr potentielle Infektionsketten.</flowPara></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1205"
+       width="24.662947"
+       height="3.2127976"
+       x="93.54911"
+       y="293.7872"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1693-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,83.648203,147.01)"><flowRegion
+         id="flowRegion1695-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
+           id="rect1697-6-8"
+           width="673.22522"
+           height="35.256348"
+           x="59.598999"
+           y="555.31903"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Patrick Hand';-inkscape-font-specification:'Patrick Hand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara1699-0-5">Version 0.9</flowPara></flowRoot>  </g>
 </svg>
